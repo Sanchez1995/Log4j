@@ -1,0 +1,5 @@
+03-06-2019 10:12:55 DEBUG [main] TestLogger - This is a Debugger
+03-06-2019 10:12:55 INFO [main] TestLogger - This is Info
+03-06-2019 10:12:55 WARN [main] TestLogger - This is a Warning
+03-06-2019 10:12:55 ERROR [main] TestLogger - This is an Error
+03-06-2019 10:12:55 FATAL [main] TestLogger - This is Fatal
